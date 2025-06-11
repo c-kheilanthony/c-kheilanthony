@@ -48,5 +48,5 @@ Leading a team of developers in building a university-wide platform with **React
 ## 📫 Let's Connect
 
 - 📧 Email: [cunanankheilanthony@gmail.com](mailto:cunanankheilanthony@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/kheil-anthony](https://linkedin.com/in/kheil-anthony)  
+- 🔗 LinkedIn: [linkedin.com/in/c-kheilanthony](https://linkedin.com/in/c-kheilanthony)  
 - 🌐 Portfolio / Projects: [github.com/c-kheilanthony](https://github.com/c-kheilanthony)
